@@ -5,7 +5,7 @@
 <script src="<?php echo base_url() ?>asset/ng/app.js"></script>
 <script src="<?php echo base_url() ?>asset/lib/select2/select2.js"></script>
 <script src="<?php echo base_url() ?>asset/lib/js/bootstrap.min.js"></script>
-<link rel="stylesheet" href="<?php echo base_url() ?>asset/lib/alertify/alertify.min.js"/>
+<script src="<?php echo base_url() ?>asset/lib/alertify/alertify.min.js"></script>
 <script>
     
         if(getCookie("login") == 'false'){

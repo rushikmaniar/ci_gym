@@ -15,7 +15,7 @@
             </div>
         </div>
 <script>
-    console.log(window.login);
+    //console.log(window.login);
 </script>
 
 <?php $this->load->view('admin/footer'); 

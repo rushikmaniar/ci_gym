@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://localhost/demo/gym/';
+$config['base_url']	= 'http://localhost/codeigniter/ci_gym/';
 
 /*
 |--------------------------------------------------------------------------
